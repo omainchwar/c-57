@@ -1,0 +1,25 @@
+body {
+margin:0;    
+padding-top: 800px;    
+    
+}
+#welcome {
+position:absolute;
+overflow: hidden;
+height: 800px;
+color: white;
+left: 0;
+top: 0;
+bottom: 0;
+right: 0;
+background: linear-gradient( #60ebeb 0%, #27ae60 100%)    
+ width:100%
+hight:100%    
+}
+.profile {
+width:175px;
+margin-bottom: 50px;
+border-radius: 50%;
+
+    
+} 
